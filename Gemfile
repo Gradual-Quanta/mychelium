@@ -6,7 +6,5 @@ source "https://rubygems.org"
 #
 #     bundle exec jekyll serve
 #
-# This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
-gem "jekyll", "> 4.0"
+gem "jekyll"
 
