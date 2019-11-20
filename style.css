@@ -1,0 +1,9 @@
+---
+---
+body {
+  background-image: URL(https://cloudflare-ipfs.com/ipfs/{{site.data.bgqm.qm}}/{{site.bgimg}});
+}
+div.content {
+  background-image: linear-gradient(to bottom right, white,lightgrey);
+  opacity: 0.7;
+}
